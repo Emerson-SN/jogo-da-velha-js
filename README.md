@@ -16,3 +16,4 @@ Jogo da velha simples desenvolvido com **HTML e JavaScript puro**, com foco na p
 - Manipulação do DOM
 - Eventos em JavaScript
 - Estruturas condicionais
+- 
