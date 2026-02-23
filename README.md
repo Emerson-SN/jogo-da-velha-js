@@ -8,11 +8,8 @@ Jogo da velha simples desenvolvido com **HTML e JavaScript puro**, com foco na p
 - Verificação de vitória
 ## 🛠 Tecnologias Utilizadas
 - HTML5
-- JavaScript (Vanilla JS)
+- JavaScript
 
-## 🌐 Versão Online
-Acesse o jogo pelo GitHub Pages:  
-👉 https://seu_usuario.github.io/jogo-da-velha-js/
 
 ## 📚 Aprendizados
 - Lógica de programação
